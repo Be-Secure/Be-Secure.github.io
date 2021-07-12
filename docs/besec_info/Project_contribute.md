@@ -88,40 +88,7 @@ Installing BeSman using oah-shell We will be using [oah-installer](https://githu
 
 <a href="https://vimeo.com/570839886/50aeb9d751" target="_blank">BeSman Demo</a>
 
-### **BeSman environments**
-
-
-#### **-  Open source Security tech stacks**
-
-We have grouped various open source technologies into 5 main categories. By doing so, it will help us to take appropriate security measures and processes to enhance the security of these open source tech stacks.
-
-We should be able to accommodate almost all the existing open source technologies in any one of the 5 categories. The categories are defined based on the common characteristics and usage of the respective open source technologies.
-
-![alt text](../img/techstack.PNG)
-
-There are two environments for each tool defined under each stack:
-
-1. **bes-<tool_dev\>-env**
-
-    In this environment, the user will get a secure development environment. 
-
-    eg. bes-ansibledev-env
-
-
-
-2. **bes-<tool_sec\>-env**
-
-    Under this environment, user will be armed with numerous security tools, to perform security testing of the techstack tools.
-
-    eg. bes-ansiblesec-env 
-
-
-
-At present, All tech stack and related applications are under Requirement gathering and analysis phase.
-
-Once Requirement gathering and analysis phase completed, each tech stack will be updated with another column named security status which indicates the current security vulnarabilities and fixes status of that application. 
-
-#### **- BeSman Environments in detail**
+#### **- BeSman Environments **
 
 <br>
 <h5><b>Security for DevOps Tools</h5></b>
@@ -238,4 +205,3 @@ This security stack focuses on all open source security tools and to secure thes
 | 01     | bes-pensec-env                 |                                          | Kali Linux, Parrot Sec                                       | R G&A 
 
 Need help to view the  utility version ? [click here](./utility-catelog.md)
-

@@ -1,6 +1,22 @@
 
+### Why Be-Secure
+<div align="justify">
+Today open source is the way forward to develop new capabilities through collaboration with open source community projects. Organizations have realized the benefits from open source software. This realization has led them to increase their adoption of open source projects to build business capabilities. This approach necessitates the focus on security for open source projects. Be-Secure projects focus on addressing common security requirements of open source projects. They are open for customizations to address specific needs. 
+</div><p><p>
+The benefits of Be-Secure projects are –
 
-There are various ways for you to get started with Be-Secure project initiative –
+- Developers can easily learn secure development practices and are proactively guided by their tools to apply those practices and automatically informed when action is needed to prevent, remediate, or mitigate security issues.
+
+- Developers, auditors, and regulators can create and easily distribute security policies that are enforced through tooling and automation, providing continuous assurance of the results.
+
+- Developers and researchers can identify security issues (including unintentional vulnerabilities and malicious software) and have this information swiftly flow - backward through the supply chain to someone who can rapidly address the issue.
+
+- Community members can provide information and notifications about product defects, mitigations, quality, and supportability and have this information rapidly flow forward across the ecosystem system to all users, and users can rapidly update their software or implement mitigations as appropriate.
+
+
+
+### Get started with Be-Secure initiative
+
 <br><br>
 <h4><b><u>Identifying OSS projects that are being tracked and its latest security posture</u></h4></b>
 
@@ -19,3 +35,19 @@ Please go the section OSS projects we track and then refer the [BeSman utility](
 <h4><b><u>Becoming a Be-Secure community member</u></h4></b>
 
 Please go to the section [How to contribute](./contribute.md). This section will help you to become a community member and how you stand to benefit from being a community member.
+
+### Vision Mission Goal
+
+<h5><b><u>VISION</u></b></h5>
+<div align="justify">
+We envision a future where the Be-Secure community becomes the one-stop for all open source security tools and technologies that interoperate without the need for customized integrations with security handled proactively.
+</div>
+
+<h5><b><u>MISSION</u></b></h5>
+
+Establish a community of open source security specialist through Be-Secure community initiative.
+
+
+<h5><b><u>GOAL</u></b></h5>
+
+Provides tools, services, training, infrastructure, and resources to achieve this vision.
