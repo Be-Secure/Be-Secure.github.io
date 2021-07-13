@@ -11,7 +11,7 @@
     
     <link rel="shortcut icon" href="../../img/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    <title>Seven stages of of Be-Secure CE Security Assessment - Be-Secure</title>
+    <title>Tech stack & Security Assessment - Be-Secure</title>
     <link href="../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
     <link href="../../css/font-awesome-4.7.0.css" rel="stylesheet">
     <link href="../../css/base.css" rel="stylesheet">
@@ -32,6 +32,8 @@
       var is_top_frame = false;
         
         var pageToc = [
+          {title: "-  Open source Security tech stacks", url: "#_top", children: [
+          ]},
         ];
 
     </script>
@@ -67,10 +69,10 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     </div>
     
     <div class="wm-article-nav">
-      <a href="../contribute/" class="btn btn-xs btn-default pull-left">
+      <a href="../Be-secure_gettingstr/" class="btn btn-xs btn-default pull-left">
         <i class="fa fa-chevron-left" aria-hidden="true"></i>
-        Previous</a><a href="../contribute/" class="btn btn-xs btn-link">
-        How to contribute
+        Previous</a><a href="../Be-secure_gettingstr/" class="btn btn-xs btn-link">
+        Getting started with Be-Secure
       </a>
     </div>
     
@@ -78,7 +80,26 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <p>This section describes the seven stages of Be-Secure CE security assessment to enhance the security posture of open source projects / open source tech stacks.</p>
+    <h4 id="-open-source-security-tech-stacks"><strong>-  Open source Security tech stacks</strong></h4>
+<p>We have grouped various open source technologies into 5 main categories. By doing so, it will help us to take appropriate security measures and processes to enhance the security of these open source tech stacks.</p>
+<p>We should be able to accommodate almost all the existing open source technologies in any one of the 5 categories. The categories are defined based on the common characteristics and usage of the respective open source technologies.</p>
+<p><img alt="alt text" src="../../img/techstack.PNG" /></p>
+<p>There are two environments for each tool defined under each stack:</p>
+<ol>
+<li>
+<p><strong>bes-&lt;tool_dev>-env</strong></p>
+<p>In this environment, the user will get a secure development environment. </p>
+<p>eg. bes-ansibledev-env</p>
+</li>
+<li>
+<p><strong>bes-&lt;tool_sec>-env</strong></p>
+<p>Under this environment, user will be armed with numerous security tools, to perform security testing of the techstack tools.</p>
+<p>eg. bes-ansiblesec-env </p>
+</li>
+</ol>
+<p>At present, All tech stack and related applications are under Requirement gathering and analysis phase.</p>
+<p>Once Requirement gathering and analysis phase completed, each tech stack will be updated with another column named security status which indicates the current security vulnarabilities and fixes status of that application. </p>
+<p>This section describes the seven stages of Be-Secure CE security assessment to enhance the security posture of open source projects / open source tech stacks.</p>
 <p>Based on the request from the community member / user of Be-Secure project to assess an open source tech stack,</p>
 <ul>
 <li>
@@ -126,10 +147,10 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     </div>
     
     <div class="wm-article-nav">
-      <a href="../contribute/" class="btn btn-xs btn-default pull-left">
+      <a href="../Be-secure_gettingstr/" class="btn btn-xs btn-default pull-left">
         <i class="fa fa-chevron-left" aria-hidden="true"></i>
-        Previous</a><a href="../contribute/" class="btn btn-xs btn-link">
-        How to contribute
+        Previous</a><a href="../Be-secure_gettingstr/" class="btn btn-xs btn-link">
+        Getting started with Be-Secure
       </a>
     </div>
     

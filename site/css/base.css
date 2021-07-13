@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 /***********************************************************************
@@ -10,11 +10,14 @@ body {
   background-color: #157878;
   box-shadow: 0 1.5px 3px rgba(0,0,0,.24), 0 3px 8px rgba(0,0,0,.05);
   border: none;
-  border-radius: 0px;
-  margin-bottom: 0px;
   height: 50px;
+  border-bottom: 5 px solid black;
+  height: 110px;
   z-index: 4;
   border-bottom: 5px solid black;
+  position:relative;
+
+
 }
 
 
@@ -23,8 +26,8 @@ body {
 }
 
 .wm-page-content {
-  max-width: 700px;
-  position: relative;
+  max-width: 800px;
+  padding: 65px;
 }
 
 .wm-page-top-frame { display: none; }
@@ -54,7 +57,8 @@ body {
   content: '';
   display: inline-block;
   height: 100%;
-  vertical-align: middle;
+  vertical-align:sub;
+  text-align: bottom;
   margin-left: -0.25em;
 }
 
@@ -64,11 +68,10 @@ body {
 }
 
 .wm-top-title {
-  display: inline-block;
+  font-size:  50px;
+  vertical-align: bottom;
   line-height: 16px;
-  vertical-align: middle;
-  text-shadow: 2px 2px 4px rgb(202, 14, 14);
-  font-size: 40px;
+ 
 }
 
 
@@ -143,7 +146,7 @@ body {
 }
 
 .wm-toc-pane.wm-toc-dropdown {
-  position: absolute;
+  position: relative;
   display: block;
   top: 0;
   left: 0;
@@ -333,6 +336,13 @@ body {
   margin: 1rem 0;
 }
 
+.wm-just-test {
+
+position: relative;
+
+}
+
+
 .wm-page-content img {
   max-width: 100%;
   display: inline-block;
@@ -442,11 +452,13 @@ h1 {
     color: #444;
     font-weight: 400;
     font-size: 42px;
+    position: relative;
 }
 
 h2, h3, h4, h5, h6 {
     color: #444;
     font-weight: 300;
+    position: relative;
 }
 
 hr {
