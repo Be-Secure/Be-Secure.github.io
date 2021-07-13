@@ -1,5 +1,5 @@
 
-#### [Be-Secure](./Be-secure_gettingstr.md)
+#### [Be-Secure](./besec_info/Be-secure_gettingstr.md)
 
 The Be-Secure projects are focused on enabling open-source communities to enhance security for their open-source projects and help build a security community around open-source. There is a growing trend of open-source adoption today and this growth is driving creation of lot more open-source components. It is essential to have a mechanism and community to focus on security of these open-source software components.
 
