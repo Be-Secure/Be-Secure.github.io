@@ -18,25 +18,24 @@ We have defined a seven stage approach to assess and enhance the security postur
 
 
 The different open-source security tech stacks identified based on their characteristics and type of usage are –
+
 <table style="border: none">
 <tr style="border: none"><td style="border: none">
-<img src="../img/ido.jpeg" height="100" width="100" alt="No pic"> </td><td style="border: none" >Security for DevOps Tools (DO)</td></tr>
+<img src="./img/ido.jpeg" height="100" width="100" alt="No pic"> </td><td style="border: none" >Security for DevOps Tools (DO)</td></tr>
 
-<tr style="border: none" ><td style="border: none"><img src="../img/ilf.jpeg"  height="100" width="100" alt="No pic"></td><td style="border: none">Language and framework security (L&F)</td></tr>
+<tr style="border: none" ><td style="border: none"><img src="./img/ilf.jpeg"  height="100" width="100" alt="No pic"></td><td style="border: none">Language and framework security (L&F)</td></tr>
 
-<tr style="border: none" ><td style="border: none"><img src="../img/ia.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none">Applications security (A)</td></tr>
+<tr style="border: none" ><td style="border: none"><img src="./img/ia.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none">Applications security (A)</td></tr>
 
-<tr style="border: none" ><td style="border: none"><img src="../img/ida.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none">Distributed application & blockchain security (DA)</td></tr>
+<tr style="border: none" ><td style="border: none"><img src="./img/ida.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none">Distributed application & blockchain security (DA)</td></tr>
 
-<tr style="border: none" ><td style="border: none"><img src="../img/is.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none" >Open source security tool (S)</td></tr>
-	
+<tr style="border: none" ><td style="border: none"><img src="./img/is.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none" >Open source security tool (S)</td></tr>
 </table>
 
-<hr>
 
 #### [OSS Projects we contribute](./besec_info/Project_contribute.md)
 
 We have defined and developed a command line utility known as BeSman. We are contributing this utility to the community and will continue to help enhance its capabilities as we move on.
 
-<hr>
+
 

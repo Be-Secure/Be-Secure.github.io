@@ -19,8 +19,8 @@ We have defined a seven stage approach to assess and enhance the security postur
 
 The different open-source security tech stacks identified based on their characteristics and type of usage are –
 <table style="border: none">
-<tr style="border: none"><td style="border: none">
-<img src="../img/a.jpeg" height="100" width="100" alt="No pic"> </td><td style="border: none" >Security for DevOps Tools (DO)</td></tr>
+  <tr style="border: none"><td style="border: none">
+  <img src="../img/da.jpeg" height="100" width="100" alt="No pic"> </td><td style="border: none" >Security for DevOps Tools (DO)</td></tr>
 
 </table>
 
