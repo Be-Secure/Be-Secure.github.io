@@ -1,17 +1,10 @@
 
-#### [Be-Secure](./besec_info/Be-secure_gettingstr.md)
-
-The Be-Secure projects are focused on enabling open-source communities to enhance security for their open-source projects and help build a security community around open-source. There is a growing trend of open-source adoption today and this growth is driving creation of lot more open-source components. It is essential to have a mechanism and community to focus on security of these open-source software components.
-
-<hr>
-
-#### [Getting started & Be-Secure Community Dashboard](./besec_info/Community_dashboard.md) 
-
- We have a Be-Secure Community Dashboard which can be used to identify the security stature of various open source projects we track. This is a good option to identify the security of your project. In case if your project is not available in the dashboard, please do let us know. We plan to grow the list of open source projects we track and report their security posture using our community dashboard.
-
- You can map your projects to the Be-Secure open source security tech stack. Once you have identified the Be-Secure open source tech stack, you can then identify the BeSman environments for your project. BeSman environments comprise of dev and security testing environments for each identified open source security tech stack. These environments can be customized per project needs to help you to utilize these environments in a seamless manner to secure your projects.
+<br><p>
+<center> <b>It is an umbrella of open source security projects and utilities tracked and maintained by the Be-Secure community. </b><p><br>
+The projects are focused on enabling open-source communities to enhance security for their open-source projects and help build a security community around open-source. There is a growing trend of open-source adoption today and this growth is driving creation of lot more open-source components. It is essential to have a mechanism and community to focus on security of these open-source software components.</center>
 
 <hr>
+
 
 #### [OSS Projects we track](./besec_info/tracked_projects.md)
 
@@ -22,9 +15,22 @@ We have identified a set of open source projects that we will be tracking and as
 #### [Be-Secure Open Source Security Tech Stack and Be-Secure CE security assessment](./besec_info/Tech_stack.md)
 
 We have defined a seven stage approach to assess and enhance the security posture of open source projects. Each stage is defined with a definitive objective and all together they will help strengthen the security posture of open source projects in a consistent manner. 
+
+
+The different open-source security tech stacks identified based on their characteristics and type of usage are –
+<table style="border: none">
+<tr style="border: none"><td style="border: none">
+<img src="../img/ido.jpeg" height="100" width="100" alt="No pic"> </td><td style="border: none" >Security for DevOps Tools (DO)</td></tr>
+
+<tr style="border: none" ><td style="border: none"><img src="../img/ilf.jpeg"  height="100" width="100" alt="No pic"></td><td style="border: none">Language and framework security (L&F)</td></tr>
+
+<tr style="border: none" ><td style="border: none"><img src="../img/ia.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none">Applications security (A)</td></tr>
+
+<tr style="border: none" ><td style="border: none"><img src="../img/ida.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none">Distributed application & blockchain security (DA)</td></tr>
+
+<tr style="border: none" ><td style="border: none"><img src="../img/is.jpeg" height="100" width="100" alt="No pic"></td><td style="border: none" >Open source security tool (S)</td></tr>
 	
- 
-All source code for Be-Secure projects are in GitHub under [Be-Secure](https://github.com/Be-Secure)
+</table>
 
 <hr>
 
@@ -34,6 +40,3 @@ We have defined and developed a command line utility known as BeSman. We are con
 
 <hr>
 
-#### [Contribution to Be-Secure Community Initiative](./besec_info/More_info.md)
-
-We invite all open source enthusiasts to join our community and enhance your capability as an open source security specialist. To know more about how to contribute to Be-Secure community initiative.
