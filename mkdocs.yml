@@ -1,11 +1,14 @@
 site_name: Be-Secure
 theme: windmill
+  #custom_dir: docs/overrides
+
 nav:
-  - Home: ./besec_info/home.md
+  #- Home: ./besec_info/home.md
+  - Home: ./index.md
   - Getting Started: ./besec_info/Be-secure_gettingstr.md
-  - Tech stack & Security Assessment:  ./besec_info/Tech_stack.md
+  - Security Assessment:  ./besec_info/Security_assessment.md
   - OSS projects we track:  ./besec_info/tracked_projects.md
   - OSS projects we contribute:  ./besec_info/Project_contribute.md
-  - Be-Secure Community Dashboard:  ./besec_info/Community_dashboard.md
+  - OSS tech stack: ./besec_info/tech_stack_details.md
   - More details: ./besec_info/More_info.md
-  - WIKI: ./besec_info/wiki.md
+

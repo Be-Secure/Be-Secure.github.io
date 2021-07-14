@@ -10,7 +10,7 @@ The projects are focused on enabling open-source communities to enhance security
 
 We have identified a set of open source projects that we will be tracking and assessing their security posture as a community activity. This list will be a growing list where new projects gets added as we move forward. 
     
-<hr>
+
 
 #### [Be-Secure Open Source Security Tech Stack and Be-Secure CE security assessment](./besec_info/Tech_stack.md)
 
@@ -18,14 +18,15 @@ We have defined a seven stage approach to assess and enhance the security postur
 
 
 The different open-source security tech stacks identified based on their characteristics and type of usage are –
-<table style="border: none">
-  <tr style="border: none"><td style="border: none">
-  <img src="../img/da.jpeg" height="100" width="100" alt="No pic"> </td><td style="border: none" >Security for DevOps Tools (DO)</td></tr>
 
+![xyz](../img/da.jpeg)
+
+<img src="../img/besec_logo12.png" height="100" width="100" alt="No test">
+
+<table style="border: none">
+  <tr style="border: none"><td style="border: none"><img src="./docs/img/da.jpeg" height="100" width="100" alt="No test"></td><td style="border: none">Security for DevOps Tools (DO)</td></tr>
 </table>
 
 #### [OSS Projects we contribute](./besec_info/Project_contribute.md)
 
 We have defined and developed a command line utility known as BeSman. We are contributing this utility to the community and will continue to help enhance its capabilities as we move on.
-
-<hr>
