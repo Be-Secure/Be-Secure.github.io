@@ -4,29 +4,14 @@ We should be able to accommodate almost all the existing open source technologie
 
 ![alt text](../img/techstack.PNG)
 
-There are two environments for each tool defined under each stack:
-
-1. **bes-<tool_dev\>-env**
-
-    In this environment, the user will get a secure development environment. 
-
-    eg. bes-ansibledev-env
-
-
-2. **bes-<tool_sec\>-env**
-
-    Under this environment, user will be armed with numerous security tools, to perform security testing of the techstack tools.
-
-    eg. bes-ansiblesec-env 
-
-
 
 At present, All tech stack and related applications are under Requirement gathering and analysis phase.
 
 Once Requirement gathering and analysis phase completed, each tech stack will be updated with another column named security status which indicates the current security vulnarabilities and fixes status of that application. 
 
 <br>
-<h5><b>Security for DevOps Tools</h5></b>
+
+### Security for DevOps Tools
 
 This security stack focuses on all kinds of open source tools used in DevOps and how they can be secured both in terms of it source code and its implementation. This would enable users to implement DevSecOps using secured DevOps tools. The identified DevOps tools will be assessed for security vulnerabilities and remediated.
 
@@ -50,7 +35,8 @@ All are in requriment gathering and analysis Phase (R G&A)
 
 Need help to view the  utility version ? [click here](./utility-catelog.md)
 <br><br>
-<h5><b>Language and Framework security</h5></b>
+
+### Language and Framework security
 
 This security stack focuses on all open source programming languages and its associated frameworks that are used to build various applications. These programming languages will be assessed and their vulnerabilities remediated. 
 
@@ -72,7 +58,8 @@ This security stack focuses on all open source programming languages and its ass
 
 Need help to view the  utility version ? [click here](./utility-catelog.md)
 <br><br>
-<h5><b>Application security</h5></b>
+
+### Application security
 
 This security stack focuses on all open source applications and how they can be secured.
 
@@ -94,7 +81,8 @@ This security stack focuses on all open source applications and how they can be 
 
 Need help to view the  utility version ? [click here](./utility-catelog.md)
 <br><br>
-<h5><b>Distributed Application and Blockchain Security</h5></b>
+
+### Distributed Application and Blockchain Security
 
 This security stack focuses on all open source based distributed applications and blockchain frameworks. Majority of blockchain frameworks are open source in nature.
 
@@ -115,7 +103,8 @@ This security stack focuses on all open source based distributed applications an
 
 Need help to view the  utility version ? [click here](./utility-catelog.md)
 <br><br>
-<h5><b>Open source Security Tool</h5></b>
+
+### Open source Security Tool
 
 This security stack focuses on all open source security tools and to secure these tools for utilization.
 
