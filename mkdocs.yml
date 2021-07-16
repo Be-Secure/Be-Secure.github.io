@@ -1,6 +1,7 @@
 site_name: Be-Secure
-theme: windmill
-  #custom_dir: docs/overrides
+theme: 
+  name: 'material'
+  custom_dir: 'docs/overrides/'
 
 nav:
   #- Home: ./besec_info/home.md
